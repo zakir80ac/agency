@@ -1,0 +1,13 @@
+# Leadership Office (7 agents)
+# The owner's right hand: priorities, pricing, decisions, projects, meetings and board-ready summaries.
+#
+# Install:  ./scripts/install.sh --tool claude-code --agents-file strategy/teams/leadership-office.txt
+# One agent per line (file stem). Blank lines and # comments are ignored.
+
+specialized-chief-of-staff
+business-strategist
+specialized-pricing-analyst
+specialized-strategy-duel-agent
+project-manager-senior
+project-management-meeting-notes-specialist
+support-executive-summary-generator

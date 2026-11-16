@@ -1,0 +1,15 @@
+# Sales Team (9 agents)
+# Lead generation to signed deal to account growth, plus coaching and pipeline reporting.
+#
+# Install:  ./scripts/install.sh --tool claude-code --agents-file strategy/teams/sales-team.txt
+# One agent per line (file stem). Blank lines and # comments are ignored.
+
+sales-offer-lead-gen-strategist
+sales-outbound-strategist
+sales-discovery-coach
+sales-deal-strategist
+sales-proposal-strategist
+sales-pipeline-analyst
+sales-account-strategist
+sales-coach
+sales-data-extraction-agent

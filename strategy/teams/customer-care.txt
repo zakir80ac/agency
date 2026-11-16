@@ -1,0 +1,12 @@
+# Customer Care (6 agents)
+# Answer customers, handle returns, keep accounts healthy and turn feedback into fixes.
+#
+# Install:  ./scripts/install.sh --tool claude-code --agents-file strategy/teams/customer-care.txt
+# One agent per line (file stem). Blank lines and # comments are ignored.
+
+customer-service
+customer-success-manager
+support-support-responder
+retail-customer-returns
+product-feedback-synthesizer
+support-analytics-reporter

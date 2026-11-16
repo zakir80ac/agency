@@ -1,0 +1,12 @@
+# People & Hiring (6 agents)
+# Recruit, onboard, train and keep the team aligned through change, with compliance checks.
+#
+# Install:  ./scripts/install.sh --tool claude-code --agents-file strategy/teams/people-and-hiring.txt
+# One agent per line (file stem). Blank lines and # comments are ignored.
+
+recruitment-specialist
+hr-onboarding
+corporate-training-designer
+organizational-psychologist
+change-management-consultant
+support-legal-compliance-checker

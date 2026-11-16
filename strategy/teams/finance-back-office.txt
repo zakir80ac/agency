@@ -1,0 +1,15 @@
+# Finance Back Office (9 agents)
+# Bookkeeping, bills, forecasting, tax planning and month-end reporting.
+#
+# Install:  ./scripts/install.sh --tool claude-code --agents-file strategy/teams/finance-back-office.txt
+# One agent per line (file stem). Blank lines and # comments are ignored.
+
+chief-financial-officer
+finance-bookkeeper-controller
+finance-fpa-analyst
+finance-financial-analyst
+finance-tax-strategist
+accounts-payable-agent
+support-finance-tracker
+data-consolidation-agent
+report-distribution-agent
