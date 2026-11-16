@@ -14,6 +14,10 @@
 >
 > **→ [Download the latest release](https://github.com/msitarzewski/agency-agents-app/releases/latest) · [agencyagents.app](https://agencyagents.app)**
 
+> ### 👔 New here, or using this for a business?
+>
+> Read **[START-HERE.md](START-HERE.md)**: a plain-English guide that matches common business problems to the right agent. It also covers **ready-made teams** (install 6-11 agents instead of 283) and **step-by-step playbooks** for sales, month-end close and hiring. To browse and search every agent, open **[docs/catalog.html](docs/catalog.html)** in your browser.
+
 ---
 
 ## 🚀 What Is This?

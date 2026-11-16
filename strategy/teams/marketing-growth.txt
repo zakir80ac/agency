@@ -1,0 +1,17 @@
+# Marketing & Growth (11 agents)
+# Content, SEO, email, social and paid ads, with tracking so you know what is working.
+#
+# Install:  ./scripts/install.sh --tool claude-code --agents-file strategy/teams/marketing-growth.txt
+# One agent per line (file stem). Blank lines and # comments are ignored.
+
+marketing-growth-hacker
+marketing-content-creator
+marketing-seo-specialist
+marketing-email-strategist
+marketing-social-media-strategist
+marketing-linkedin-content-creator
+paid-media-ppc-strategist
+paid-media-paid-social-strategist
+paid-media-creative-strategist
+paid-media-tracking-specialist
+support-analytics-reporter

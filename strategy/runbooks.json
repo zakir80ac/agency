@@ -170,6 +170,100 @@
           ]
         }
       ]
+    },
+    {
+      "slug": "lead-to-close",
+      "title": "Lead-to-Close Sales Sprint",
+      "mode": "NEXUS-Sprint",
+      "duration": "4-6 weeks",
+      "summary": "Sharpen the offer, fill the pipeline, win proposals and build a forecast you can trust.",
+      "doc": "strategy/runbooks/scenario-lead-to-close.md",
+      "roster": [
+        {
+          "group": "Pipeline Core",
+          "activation": "always",
+          "agents": [
+            "sales-offer-lead-gen-strategist",
+            "sales-outbound-strategist",
+            "sales-discovery-coach",
+            "sales-deal-strategist",
+            "sales-proposal-strategist",
+            "sales-pipeline-analyst"
+          ]
+        },
+        {
+          "group": "Support",
+          "activation": "as needed",
+          "agents": [
+            "sales-coach",
+            "specialized-pricing-analyst",
+            "sales-data-extraction-agent",
+            "sales-account-strategist",
+            "support-executive-summary-generator"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "month-end-close",
+      "title": "Month-End Close & Cash Review",
+      "mode": "NEXUS-Micro",
+      "duration": "5 business days monthly",
+      "summary": "A repeatable five-day close that ends with reconciled books, a 90-day cash forecast and owner decisions.",
+      "doc": "strategy/runbooks/scenario-month-end-close.md",
+      "roster": [
+        {
+          "group": "Close Core",
+          "activation": "always",
+          "agents": [
+            "finance-bookkeeper-controller",
+            "accounts-payable-agent",
+            "data-consolidation-agent",
+            "finance-fpa-analyst",
+            "chief-financial-officer"
+          ]
+        },
+        {
+          "group": "Support",
+          "activation": "as needed",
+          "agents": [
+            "finance-financial-analyst",
+            "finance-tax-strategist",
+            "support-finance-tracker",
+            "report-distribution-agent"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hire-a-role",
+      "title": "Hire & Onboard a Key Role",
+      "mode": "NEXUS-Micro",
+      "duration": "4-8 weeks + 90-day onboarding",
+      "summary": "Define the role, run a fair structured hiring process, make the offer and onboard to productivity.",
+      "doc": "strategy/runbooks/scenario-hire-a-role.md",
+      "roster": [
+        {
+          "group": "Hiring Core",
+          "activation": "always",
+          "agents": [
+            "recruitment-specialist",
+            "hr-onboarding",
+            "support-legal-compliance-checker",
+            "corporate-training-designer"
+          ]
+        },
+        {
+          "group": "Support",
+          "activation": "as needed",
+          "agents": [
+            "organizational-psychologist",
+            "specialized-pricing-analyst",
+            "specialized-document-generator",
+            "specialized-chief-of-staff"
+          ]
+        }
+      ]
     }
   ]
 }

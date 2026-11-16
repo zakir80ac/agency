@@ -1,0 +1,16 @@
+# Small Business Starter (10 agents)
+# The everyday crew for an owner-run business: strategy, operations, money in/out, sales, marketing, customers, paperwork.
+#
+# Install:  ./scripts/install.sh --tool claude-code --agents-file strategy/teams/small-business-starter.txt
+# One agent per line (file stem). Blank lines and # comments are ignored.
+
+business-strategist
+operations-manager
+finance-bookkeeper-controller
+accounts-payable-agent
+sales-outreach
+marketing-content-creator
+marketing-social-media-strategist
+customer-service
+support-executive-summary-generator
+specialized-document-generator
